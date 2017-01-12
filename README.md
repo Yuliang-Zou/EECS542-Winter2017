@@ -1,5 +1,7 @@
 # EECS542-Winter2017
-Advanced_Topics_in_Computer_Vision
+Advanced Topics in Computer Vision. [Link](http://web.eecs.umich.edu/~jjcorso/t/542W17/)
+
+This is a repository recording the suggested reading list for UMich EECS542 Winter2017 section. There are three major topics: Probabilistc Graphical Models, Deep Learning, and Dictionary Learning.
 
 ## Reading List
 ### Week01
