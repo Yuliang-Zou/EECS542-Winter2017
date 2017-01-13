@@ -3,6 +3,10 @@ Advanced Topics in Computer Vision. [Link](http://web.eecs.umich.edu/~jjcorso/t/
 
 This is a repository recording the suggested reading list for UMich EECS542 Winter2017 section. There are three major topics: Probabilistc Graphical Models, Deep Learning, and Dictionary Learning.
 
+## Schedule:
+
+<img src="schedule.gif">
+
 ## Reading List
 ### Week01
 1) Foundation: [FTCGV 2011] Nowozin et al. [Structured Learning and Prediction in Computer Vision](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.636.2651&rep=rep1&type=pdf) Through 3.2
