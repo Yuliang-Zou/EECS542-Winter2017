@@ -21,3 +21,8 @@ This is a repository recording the suggested reading list for UMich EECS542 Wint
 2) Application: [TPAMI 2008] Szeliski et al. [A comparative study of energy minimization methods for markov random fields with smoothness-based priors](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4420084)
 
 3) Optional: [TPAMI 1984] Geman et al. [Gibbs distributions, and the Bayesian restoration of images](http://www.csee.wvu.edu/~xinl/library/papers/infor/Geman_Geman.pdf)
+
+### Week03
+1) Foundation: [FTCGV 2011] Nowozin et al. [Structured Learning and Prediction in Computer Vision](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.636.2651&rep=rep1&type=pdf) Chapter6
+
+2) Application: [ECCV 2008] Szummer et al. [Learning CRFs using graph cuts](http://www.msr-waypoint.com/en-us/um/people/pkohli/papers/skh_eccv08.pdf)
