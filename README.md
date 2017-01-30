@@ -26,3 +26,10 @@ This is a repository recording the suggested reading list for UMich EECS542 Wint
 1) Foundation: [FTCGV 2011] Nowozin et al. [Structured Learning and Prediction in Computer Vision](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.636.2651&rep=rep1&type=pdf) Chapter6
 
 2) Application: [ECCV 2008] Szummer et al. [Learning CRFs using graph cuts](http://www.msr-waypoint.com/en-us/um/people/pkohli/papers/skh_eccv08.pdf)
+
+### Week04
+1) Foundation: [cs231n notes] Karpathy et al. [backprop notes](http://cs231n.github.io/optimization-2/) and [ConvNet notes](http://cs231n.github.io/convolutional-networks/)
+
+2) Application: [CVPR 2015] Long et al. [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
+
+3) Optional: [Neural Networks: Tricks of the trade 1998] LeCun et al. [Efficient BackProp](http://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf)
