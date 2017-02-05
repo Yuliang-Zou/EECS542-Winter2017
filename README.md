@@ -1,7 +1,7 @@
 # EECS542-Winter2017
 Advanced Topics in Computer Vision. [Link](http://web.eecs.umich.edu/~jjcorso/t/542W17/)
 
-This is a repository recording the suggested reading list for UMich EECS542 Winter2017 section. There are three major topics: Probabilistc Graphical Models, Deep Learning, and Dictionary Learning.
+This is a repository recording the suggested reading list for UMich EECS542 Winter2017 section. There are three major topics: Structured Learning and Prediction, Deep Learning, and Sparse Modeling.
 
 ## Schedule:
 
@@ -33,3 +33,10 @@ This is a repository recording the suggested reading list for UMich EECS542 Wint
 2) Application: [CVPR 2015] Long et al. [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
 
 3) Optional: [Neural Networks: Tricks of the trade 1998] LeCun et al. [Efficient BackProp](http://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf)
+
+### Week05
+1) Foundation: [NIPS 2015] Jaderberg et al. [Spatial transformer networks](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)
+
+2) Application: [CVPR 2016] He et al. [Deep residual learning for image recognition](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+3) Optional: [ICML 2016] Kaiming He [Tutorial on Deep Residual Networks](http://kaiminghe.com/icml16tutorial/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
