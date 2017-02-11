@@ -39,4 +39,11 @@ This is a repository recording the suggested reading list for UMich EECS542 Wint
 
 2) Application: [CVPR 2016] He et al. [Deep residual learning for image recognition](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-3) Optional: [ICML 2016] Kaiming He [Tutorial on Deep Residual Networks](http://kaiminghe.com/icml16tutorial/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
+3) Optional: [ICML 2016] Kaiming He. [Tutorial on Deep Residual Networks](http://kaiminghe.com/icml16tutorial/icml2016_tutorial_deep_residual_networks_kaiminghe.pdf)
+
+### Week06
+1) Foundation: [FTCGV 2014] Mairal et al. [Sparse Modeling for Image and Vision Processing](http://lear.inrialpes.fr/people/mairal/resources/pdf/review_sparse_arxiv.pdf)
+
+2) Application: [TPAMI 2009] Wright et al. [Robust Face Recognition via Sparse Representation](http://www.columbia.edu/~jw2966/papers/WYGSM09-PAMI.pdf)
+
+3) Optional: [TSP 2006] Aharon et al. [K-SVD: An algorithm for designing overcomplete dictionaries for sparse representation](http://www.cs.technion.ac.il/~freddy/papers/120.pdf)
