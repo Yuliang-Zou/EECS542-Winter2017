@@ -47,3 +47,8 @@ This is a repository recording the suggested reading list for UMich EECS542 Wint
 2) Application: [TPAMI 2009] Wright et al. [Robust Face Recognition via Sparse Representation](http://www.columbia.edu/~jw2966/papers/WYGSM09-PAMI.pdf)
 
 3) Optional: [TSP 2006] Aharon et al. [K-SVD: An algorithm for designing overcomplete dictionaries for sparse representation](http://www.cs.technion.ac.il/~freddy/papers/120.pdf)
+
+### Week07
+1) Foundation: [TPAMI 2012] Mairal et al. [Task-driven dictionary learning](https://arxiv.org/pdf/1009.5358.pdf)
+
+2) Application: [arXiv 2016] Koch et al. [Sparse Factorization Layers for Neural Networks with Limited Supervision](https://arxiv.org/pdf/1612.04468.pdf)
