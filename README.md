@@ -52,3 +52,37 @@ This is a repository recording the suggested reading list for UMich EECS542 Wint
 1) Foundation: [TPAMI 2012] Mairal et al. [Task-driven dictionary learning](https://arxiv.org/pdf/1009.5358.pdf)
 
 2) Application: [arXiv 2016] Koch et al. [Sparse Factorization Layers for Neural Networks with Limited Supervision](https://arxiv.org/pdf/1612.04468.pdf)
+
+### Week08
+Spring Break: No reading
+
+### Week09
+1) Foundation: [ICML 2008] Vincent et al. [Extracting and Composing Robust Features with Denoising Autoencoders](http://www.iro.umontreal.ca/~lisa/publications2/index.php/attachments/single/176)
+
+2) Application: [CVPR 2016] Pathak et al. [Context encoders: Feature learning by inpainting](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf)
+
+### Week10
+1) Foundation: [CVPR 2015] Vinyals et al. [Show and Tell: A Neural Image Caption Generator](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf)
+
+2) Application: [ICML 2015] Srivastava et al. [Unsupervised Learning of Video Representations using LSTMs](http://www.jmlr.org/proceedings/papers/v37/srivastava15.pdf)
+
+3) Optional: [Colah's Blog] Colah. [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+4) Optional: [Neural Computation 1997] Hochreiter et al. [Long short-term memory](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)
+
+### Week11
+1) Foundation: [CVPR 2016] Jain et al. [Structural-RNN: Deep Learning on Spatio-Temporal Graphs](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
+
+2) Application: [Karpathy's Blog] Karpathy. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+### Week12
+1) Foundation: [NIPS 2014] Goodfellow et al. [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+
+2) Application: [ICML 2016] Reed et al. [Generative Adversarial Text to Image Synthesis](http://www.jmlr.org/proceedings/papers/v48/reed16.pdf)
+
+3) Optional: [NIPS 2016 Tutorial] Goodfellow. [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160.pdf)
+
+### Week13
+1) Foundation: [ICLR 2015] Weston et al. [Memory Networks](https://arxiv.org/pdf/1410.3916.pdf)
+
+2) Application: [ICML 2016] Xiong et al. [Dynamic Memory Networks for Visual and Textual Question Answering](http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf)
