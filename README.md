@@ -73,7 +73,9 @@ Spring Break: No reading
 ### Week11
 1) Foundation: [CVPR 2016] Jain et al. [Structural-RNN: Deep Learning on Spatio-Temporal Graphs](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)
 
-2) Application: [Karpathy's Blog] Karpathy. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+2) Application: [CVPR 2017] Xu et al. [Scene Graph Generation by Iterative Message Passing](https://arxiv.org/pdf/1701.02426.pdf)
+
+3) Optional: [Karpathy's Blog] Karpathy. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### Week12
 1) Foundation: [NIPS 2014] Goodfellow et al. [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
